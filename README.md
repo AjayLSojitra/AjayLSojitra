@@ -1,15 +1,13 @@
-A Mobile Application Developer - Mobile Team Lead with nearly 5.9 years of experience Software Development, Application
-Maintenance & Support and Project Execution
-4.9 years of experience in Kotlin.
-3 years of experience in Flutter.
-3.9 years of experience in MVVM Architecture.
-Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for
-complex information systems management
-Well versed with Android Application Development (Enterprise Mobility Solutions)
-Acted as a part of Think Tank team in Samsung for providing enterprise capabilities on Samsung Wearable devices
-Experienced in working with clients, business managers and technical teams for executing concurrent projects
-Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, Java,
-Kotlin, Dart, Android Applications,etc.)
+A Mobile Application Developer - Mobile Team Lead  with nearly 7 years of experience Software Development, Application Maintenance & Support and Project Execution.
+    • 7 years of experience in Kotlin.
+    • 3 years of experience in Flutter.
+    • 3 years of experience in React-Native.
+    • 5  years of experience in MVVM Architecture.
+    • Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management
+    • Well versed with Android Application Development (Enterprise Mobility Solutions)
+    • Acted as a part of Think Tank team in Samsung for providing enterprise capabilities on Samsung Wearable devices
+    • Experienced in working with clients, business managers and technical teams for executing concurrent projects
+    • Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, Java, Kotlin, Dart, Android Applications,etc.)
 
 Handling various technical aspects like coding of modules using the given design specifications, debugging and fixing the defects as
 well as analysing its root cause
