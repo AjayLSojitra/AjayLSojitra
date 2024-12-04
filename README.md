@@ -1,21 +1,6 @@
-A Mobile Application Developer - Mobile Team Lead  with nearly 7 years of experience Software Development, Application Maintenance & Support and Project Execution.
-    • 7 years of experience in Kotlin.
-    • 3 years of experience in Flutter.
-    • 3 years of experience in React-Native.
-    • 5  years of experience in MVVM Architecture.
-    • Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management
-    • Well versed with Android Application Development (Enterprise Mobility Solutions)
-    • Acted as a part of Think Tank team in Samsung for providing enterprise capabilities on Samsung Wearable devices
-    • Experienced in working with clients, business managers and technical teams for executing concurrent projects
-    • Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, Java, Kotlin, Dart, Android Applications,etc.)
+Experienced Flutter Developer with 6 years of expertise in building high-performance, cross-platform mobile applications using the Flutter framework. Backed by 8 years in Native Android Development and 3 years in React Native, I bring a comprehensive skill set to deliver innovative and scalable solutions tailored to client and product needs.
 
-Handling various technical aspects like coding of modules using the given design specifications, debugging and fixing the defects as
-well as analysing its root cause
-Ensuring that business requirements and functional specifications for the module coded by me are tested and fulfilled before the code
-is delivered for integration
-Coordinating with team members for system design, integration, application maintenance, etc.
-Cooperating with other teams across the organization for efficient work progress
-Following the best practices for project support and documentation as set by the peers;
-Understanding & mapping client’s requirements / enhancements to the product,; implementing solutions that effectively resolve
-problems or provide improvement
-My entire work portfolio: -> http://portfolio.jeviwebstudio.com/ajay-l-sojitra
+- Proficient in Dart, Typescript, JavaScript, Kotlin and Java with strong knowledge of mobile development best practices and state management techniques.
+- Adept in leading teams, mentoring developers, and delivering robust applications within tight deadlines.
+- Proven track record of collaborating across teams to translate business requirements into impactful mobile solutions.
+- Fluent in English, Hindi, and Gujarati, enabling effective communication with diverse stakeholders.
